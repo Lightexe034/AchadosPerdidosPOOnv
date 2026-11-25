@@ -186,28 +186,6 @@ Por exemplo, em `self.nome = nome`, `self` representa o objeto que está sendo c
 - [CLASSES.md](documentacao/CLASSES.md) contém o diagrama e a explicação de herança, encapsulamento, sobrescrita, polimorfismo e relacionamentos.
 - [TESTES.md](documentacao/TESTES.md) contém um roteiro de testes pelos próprios menus, com resultados esperados e orientações para registrar evidências.
 
-## Equipe e GitHub
-
-O grupo é formado pelos oito integrantes abaixo. As contribuições individuais serão preenchidas pelo grupo.
-
-| Integrante | Contribuição |
-| --- | --- |
-| Anthony Rafael Mendes Carvalho  
-| Marcos Vinicius Barbosa Fernandes  
-| Carlos Henrique Ribeiro Santos  
-| Matheus Alves Biasi  
-| Michell Barbosa Borba  
-| Felipe Gama Salvador  
-| Rivia Cardoso dos Santos  
-| Renato Martins Correa  
-
-**Link do repositório GitHub pendente de definição.** A entrega exige repositório acessível ao professor, versão apresentada atualizada e histórico de commits. Cada integrante deve registrar suas contribuições reais ao longo do trabalho. O arquivo .gitignore exclui dados.json, dados.tmp e o cache do Python do controle de versão. O programa cria dados.json no primeiro cadastro em uma cópia nova do projeto.
-
-## Escopo da versão
-
-O sistema é um programa local de terminal e usa um arquivo JSON por instalação. Execute uma instância por vez para evitar que duas execuções sobrescrevam alterações simultâneas. A conta de demonstração do responsável é definida em main.py. Os avisos de perda e pedidos permanecem como histórico. A retirada é autorizada após conferência manual e a entrega exige o RA aprovado.
-
-Se o JSON estiver inválido, a inicialização apresenta uma mensagem e preserva o arquivo para correção. Se a gravação falhar, o programa informa o erro. A escrita usa um arquivo temporário antes da substituição do JSON.
 
 ## Organização das pastas
 
